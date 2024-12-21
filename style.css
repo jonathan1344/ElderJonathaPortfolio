@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: url('../Imagens/mode.png') center/cover no-repeat fixed;
+    color: #333;
+}
+
+.header {
+    width: 100%;
+    background: #000; /* 100% preta */
+    color: #fff;
+    padding: 15px 20px;
+    text-align: center;
+}
+
+.header .titulo {
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.container {
+    background-color: rgba(223, 252, 237, 0.45);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.content {
+    padding: 20px;
+    text-align: left;
+    background-color: rgba(223, 252, 237, 0.85);
+    border-radius: 15px;
+}
+
+.content p strong {
+    display: block;
+    margin-bottom: 20px; /* Espaço em branco após o texto em negrito */
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
