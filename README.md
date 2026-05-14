@@ -19,28 +19,7 @@ Sou profissional com **3+ anos de experiência** em otimização de processos lo
 
 ## 🎯 CASOS DE SUCESSO
 
-### **CASO 1: Validação RF + Acuracidade de Inventário**
-**Empresa:** Stellantis Mopar | **Impacto:** 60% → 70% acuracidade
-
-**Problema:**
-- Acuracidade em 60%, projeção de queda para 45-50%
-- Operadores gastavam 40% do tempo procurando peças erradas
-- Cascata exponencial de erros no sistema
-
-**Solução:**
-- Criei gatilho de confirmação no RF (handheld)
-- Operador precisava validar localização ANTES de próxima tarefa
-- Se errado, sistema bloqueava (parava erro no primeiro passo)
-
-**Resultado:**
-- ✅ Acuracidade **subiu para 70%**
-- ✅ Targets anuais/mensais/semestrais **alcançados**
-- ✅ Implementado em **todos 3 turnos**
-- ✅ **Leadership Principles:** Ownership, Invent & Simplify, Leadership
-
----
-
-### **CASO 2: Estoque Fantasma + Automação Python**
+### **CASO 1: Estoque Fantasma + Automação Python**
 **Empresa:** Novaeo (EUA) | **Impacto:** $200k liberados | **Operação:** 24/7 sem parar
 
 **Problema:**
@@ -64,7 +43,7 @@ Sou profissional com **3+ anos de experiência** em otimização de processos lo
 
 ---
 
-### **CASO 3: Machine Learning + Previsão de Variância**
+### **CASO 2: Machine Learning + Previsão de Variância**
 **Empresa:** Stellantis Mopar | **Impacto:** R$50k/mês economizados (pilot 25%)
 
 **Problema:**
@@ -87,7 +66,7 @@ Sou profissional com **3+ anos de experiência** em otimização de processos lo
 
 ---
 
-### **CASO 4: Excel → Power BI Real-Time (Favorito)**
+### **CASO 3: Excel → Power BI Real-Time (Favorito)**
 **Empresa:** Stellantis Mopar | **Impacto:** R$100k/mês economizados PERMANENTEMENTE
 
 **Problema:**
