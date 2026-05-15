@@ -115,6 +115,44 @@ python teste_machine.py
 ```
 
 **Documentação Completa:** [Ver detalhes aqui](./Projeto-Previsao-Inventario/README.md)
+## 📦 RELEASES & DOWNLOADS
+
+### Release 1: KPI Inventário - Power BI Dashboard
+**v1.0-powerbi** | [Download](https://github.com/jonathan1344/ElderJonathaPortfolio/releases/tag/v1.0-powerbi)
+
+Dashboard profissional de inventário desenvolvido para Stellantis Mopar.
+
+**📊 Métricas:**
+- R$ 439.926.972,38 em estoque
+- 95.08% acuracidade SOX
+- 82 mil Part Numbers em 40 mil locações
+- Real-time monitoring + alertas automáticos
+
+**📥 Download:** `KPI_Inventario_prototipo.pbix`
+
+---
+
+### Release 2: Case Study - Ghost Inventory Elimination
+**v2.0-casestudies** | [Download](https://github.com/jonathan1344/ElderJonathaPortfolio/releases/tag/v2.0-casestudies)
+
+Supply Chain Data Reconciliation & Automation — Novaeo / Leiluna LLC (USA)
+
+**💰 Impacto:**
+- $200K capital liberado
+- 7,7 toneladas de estoque fantasma reconciliadas
+- 40% → 5% validação (7x mais rápido)
+- 15 anomalias detectadas automaticamente/mês
+- 3 de 3 bases de dados sincronizadas
+
+**🛠️ Tecnologias:**
+- Python 3 + Pandas (reconciliação)
+- Baserow API (integração)
+- Linux/Ubuntu (servidor Contabo)
+- SQL (validação)
+
+**📋 Resposta STAR completa para entrevistas incluída no PDF.**
+
+**📥 Download:** `Ghost_Inventory_CaseStudy_v2.pdf`
 
 ---
 
