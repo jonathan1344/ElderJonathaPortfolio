@@ -144,7 +144,7 @@ python teste_machine.py
 ## 📧 CONTATO
 
 - **Email:** jhon_elder@hotmail.com
-- **LinkedIn:** [linkedin.com/in/elder-jonathan-714907260/](https://linkedin.com/in/elder-jonathan-714907260/)
+- **LinkedIn:** https://www.linkedin.com/in/elderjonathanpimentel/
 - **Telefone:** +55 (31) 98421-1947
 - **Localização:** Contagem, Minas Gerais
 
