@@ -90,6 +90,8 @@ Sou profissional com **3+ anos de experiência** em otimização de processos lo
 - ✅ Pontos críticos identificados **antes** de virarem problemas
 - ✅ Deltas indevidos **drasticamente reduzidos**
 - ✅ **Leadership Principles:** Invent & Simplify, Deliver Results, Data-driven, Ownership
+<img width="1903" height="1027" alt="image" src="https://github.com/user-attachments/assets/5333fa21-a24a-48cf-a852-320d978dfdfa" />
+
 
 ---
 
