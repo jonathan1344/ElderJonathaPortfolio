@@ -158,7 +158,6 @@ python teste_machine.py
 Este portfólio contém casos reais de empresas onde atuei. **Para preservar confidencialidade:**
 - Dados financeiros foram randomizados em ±5%
 - Part Numbers foram alterados
-- Nomes de operadores não aparecem
 - Foco está no **método, não em detalhes sensíveis**
 
 ---
